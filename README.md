@@ -11,7 +11,7 @@ Revisión de errores al finalizar, descarga de resultados en CSV y certificado d
 Asistente de IA opcional, con modo básico sin IA.
 Cómo usarla
 
-Abrir en el navegador: https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/
+Abrir en el navegador: **https://difamar.github.io/Tesina-IUPFA/**
 
 También puede descargarse index.html y abrirse directamente en cualquier navegador moderno; no requiere instalación ni servidor.
 
